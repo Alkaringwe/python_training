@@ -1,2 +1,2 @@
 # python_training
-python_auto_tests
+python_auto_tests_repositories
